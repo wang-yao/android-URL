@@ -1,0 +1,42 @@
+https://github.com/Trinea/android-open-project
+
+http://dl.google.com/android/installer_r24.4.1-windows.exe
+http://dl.google.com/android/android-sdk_r24.4.1-windows.zip
+sdk 32位64位都一样
+
+最新的as
+https://dl.google.com/dl/android/studio/install/1.5.1.0/android-studio-bundle-141.2456560-windows.exe
+
+https://dl.google.com/dl/android/studio/ide-zips/1.5.1.0/android-studio-ide-141.2456560-windows.zip
+
+ndk
+http://dl.google.com/android/ndk/android-ndk-r10e-windows-x86.exe
+http://dl.google.com/android/ndk/android-ndk-r10e-windows-x86_64.exe
+
+
+
+SDK  Tools Only
+http://dl.google.com/android/installer_r24.4.1-windows.exe
+http://dl.google.com/android/android-sdk_r24.4.1-windows.zip
+
+http://dl.google.com/android/android-sdk_r24.4.1-macosx.zip
+
+http://dl.google.com/android/android-sdk_r24.4.1-linux.tgz
+
+All Android Studio Packages
+https://dl.google.com/dl/android/studio/install/1.5.1.0/android-studio-bundle-141.2456560-windows.exe
+
+https://dl.google.com/dl/android/studio/install/1.5.1.0/android-studio-ide-141.2456560-windows.exe(No SDK tools included)
+
+https://dl.google.com/dl/android/studio/ide-zips/1.5.1.0/android-studio-ide-141.2456560-windows.zip
+
+https://dl.google.com/dl/android/studio/install/1.5.1.0/android-studio-ide-141.2456560-mac.dmg
+
+https://dl.google.com/dl/android/studio/ide-zips/1.5.1.0/android-studio-ide-141.2456560-linux.zip
+http://dl.google.com/android/ndk/android-ndk-r10e-windows-x86.exe
+http://dl.google.com/android/ndk/android-ndk-r10e-windows-x86_64.exe
+
+http://dl.google.com/android/ndk/android-ndk-r10e-darwin-x86_64.bin  Mac OS X 64-bit
+
+http://dl.google.com/android/ndk/android-ndk-r10e-linux-x86.bin
+http://dl.google.com/android/ndk/android-ndk-r10e-linux-x86_64.bin
