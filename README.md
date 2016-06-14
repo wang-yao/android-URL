@@ -1,4 +1,4 @@
-android环境，开发工具下载地址 [<br />]
+android环境，开发工具下载地址 <br />
  <a onclick="return onDownload(this,false,true)" id="win-bundle" data-modal-toggle="studio_tos"
     href="https://dl.google.com/dl/android/studio/install/2.1.2.0/android-studio-bundle-143.2915827-windows.exe"
     >android-studio-bundle-143.2915827-windows.exe</a><br>
@@ -23,4 +23,5 @@ android环境，开发工具下载地址 [<br />]
     <td>
   <a onclick="return onDownload(this,false,true)" id="win-bundle-zip" data-modal-toggle="studio_tos"
     href="https://dl.google.com/dl/android/studio/ide-zips/2.1.2.0/android-studio-ide-143.2915827-windows.zip"
-    >android-studio-ide-143.2915827-windows.zip</a
+    >android-studio-ide-143.2915827-windows.zip</a><br>
+
