@@ -1,5 +1,5 @@
 android环境，开发工具下载地址 <br />
- <table class="download">
+  <table class="download">
     <tr>
       <th>Platform</th>
       <th>Android Studio package</th>
@@ -18,7 +18,7 @@ android环境，开发工具下载地址 <br />
     <td>9d677be09ccbb0195f52a429020b5bf0939e95d3</td>
   </tr>
   <tr>
-   
+    <!-- blank TD from Windows rowspan -->
     <td>
   <a onclick="return onDownload(this,false,true)" id="win-bundle-notools" data-modal-toggle="studio_tos"
     href="https://dl.google.com/dl/android/studio/install/2.1.2.0/android-studio-ide-143.2915827-windows.exe"
@@ -29,7 +29,7 @@ android环境，开发工具下载地址 <br />
     <td>e9bb11e348639637e44137e30f77a4b1e8783eb0</td>
   </tr>
   <tr>
-    
+    <!-- blank TD from Windows rowspan -->
     <td>
   <a onclick="return onDownload(this,false,true)" id="win-bundle-zip" data-modal-toggle="studio_tos"
     href="https://dl.google.com/dl/android/studio/ide-zips/2.1.2.0/android-studio-ide-143.2915827-windows.zip"
@@ -60,6 +60,7 @@ android环境，开发工具下载地址 <br />
     <td>d34c75ae2ca1cf472e21eb5301f43603082c6fd0</td>
   </tr>
   </table>
+
 
 <br />
 <table class="download">
