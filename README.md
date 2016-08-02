@@ -36,7 +36,7 @@ android环境，开发工具下载地址 <br />
     >android-studio-ide-143.2915827-windows.zip</a><br>
     No Android SDK, no installer
     </td>
-    <td data-size="307686999"307686999></td>
+    <td data-size="307686999">307686999</td>
     <td>2aa610308b23ee938dbd1f821675db763d68912c</td>
   </tr>
   <tr>
