@@ -14,7 +14,7 @@ android环境，开发工具下载地址 <br />
     >android-studio-bundle-143.2915827-windows.exe</a><br>
     Includes Android SDK <b>(recommended)</b>
     </td>
-    <td id="win-bundle-size" data-size="1245610376">1245610376</td>
+    <td id="win-bundle-size" data-size="1245610376">1187 MB</td>
     <td>9d677be09ccbb0195f52a429020b5bf0939e95d3</td>
   </tr>
   <tr>
@@ -25,7 +25,7 @@ android环境，开发工具下载地址 <br />
     >android-studio-ide-143.2915827-windows.exe</a><br>
     No Android SDK
     </td>
-    <td data-size="290846136">290846136</td>
+    <td data-size="290846136">277 MB</td>
     <td>e9bb11e348639637e44137e30f77a4b1e8783eb0</td>
   </tr>
   <tr>
@@ -36,7 +36,7 @@ android环境，开发工具下载地址 <br />
     >android-studio-ide-143.2915827-windows.zip</a><br>
     No Android SDK, no installer
     </td>
-    <td data-size="307686999">307686999</td>
+    <td data-size="307686999">293 MB</td>
     <td>2aa610308b23ee938dbd1f821675db763d68912c</td>
   </tr>
   <tr>
@@ -46,7 +46,7 @@ android环境，开发工具下载地址 <br />
     href="https://dl.google.com/dl/android/studio/install/2.1.2.0/android-studio-ide-143.2915827-mac.dmg"
     >android-studio-ide-143.2915827-mac.dmg</a>
     </td>
-    <td id="mac-bundle-size" data-size="305671838">305671838</td>
+    <td id="mac-bundle-size" data-size="305671838">291 MB</td>
     <td>689889cd434cb883b3fbdc61faa288de98754116</td>
   </tr>
   <tr>
@@ -56,7 +56,7 @@ android环境，开发工具下载地址 <br />
     href="https://dl.google.com/dl/android/studio/ide-zips/2.1.2.0/android-studio-ide-143.2915827-linux.zip"
     >android-studio-ide-143.2915827-linux.zip</a>
     </td>
-    <td id="linux-bundle-size" data-size="305181285">305181285</td>
+    <td id="linux-bundle-size" data-size="305181285">291 MB</td>
     <td>d34c75ae2ca1cf472e21eb5301f43603082c6fd0</td>
   </tr>
   </table>
@@ -81,7 +81,7 @@ command line tools below.</p>
   <a onclick="return onDownload(this)" id="win-tools" data-modal-toggle="studio_tos"
     href="//dl.google.com/android/installer_r24.4.1-windows.exe">installer_r24.4.1-windows.exe</a><br>
     </td>
-    <td data-size="151659917">151659917</td>
+    <td data-size="151659917">144 MB</td>
     <td>f9b59d72413649d31e633207e31f456443e7ea0b</td>
   </tr>
   <tr>
@@ -91,7 +91,7 @@ command line tools below.</p>
     href="//dl.google.com/android/android-sdk_r24.4.1-windows.zip">android-sdk_r24.4.1-windows.zip</a><br>
     No installer
     </td>
-    <td data-size="199701062">199701062</td>
+    <td data-size="199701062">190 MB</td>
     <td>66b6a6433053c152b22bf8cab19c0f3fef4eba49</td>
   </tr>
   <tr>
@@ -100,7 +100,7 @@ command line tools below.</p>
   <a onclick="return onDownload(this)" id="mac-tools" data-modal-toggle="studio_tos"
     href="//dl.google.com/android/android-sdk_r24.4.1-macosx.zip">android-sdk_r24.4.1-macosx.zip</a>
     </td>
-    <td data-size="102781947">102781947</td>
+    <td data-size="102781947">98 MB</td>
     <td>85a9cccb0b1f9e6f1f616335c5f07107553840cd</td>
   </tr>
   <tr>
@@ -109,7 +109,7 @@ command line tools below.</p>
   <a onclick="return onDownload(this)" id="linux-tools" data-modal-toggle="studio_tos"
     href="//dl.google.com/android/android-sdk_r24.4.1-linux.tgz">android-sdk_r24.4.1-linux.tgz</a>
     </td>
-    <td data-size="326412652">326412652</td>
+    <td data-size="326412652">311 MB</td>
     <td>725bb360f0f7d04eaccff5a2d57abdd49061326d</td>
   </tr>
   </table>
