@@ -170,3 +170,98 @@ command line tools below.</p>
 
   </table>
 
+
+
+
+
+
+
+<table class="download">
+    <tr>
+      <th>平台</th>
+      <th>Android Studio 软件包</th>
+      <th>大小</th>
+      <th>SHA-1 校验和</th>
+  </tr>
+  <tr>
+    <td rowspan="3">Windows</td>
+    <td>
+  <a onclick="return onDownload(this,false,true)" id="win-bundle" data-modal-toggle="studio_tos" href="https://dl.google.com/dl/android/studio/install/2.2.3.0/android-studio-bundle-145.3537739-windows.exe">android-studio-bundle-145.3537739-windows.exe</a><br /> 包含 Android SDK <b>（推荐）</b>
+    </td>
+    <td id="win-bundle-size" data-size="1756130200"></td>
+    <td>272105b119adbcababa114abeee4c78f3001bcf7</td>
+  </tr>
+  <tr>
+    <!-- blank TD from Windows rowspan -->
+    <td>
+  <a onclick="return onDownload(this,false,true)" id="win-bundle-notools" data-modal-toggle="studio_tos" href="https://dl.google.com/dl/android/studio/install/2.2.3.0/android-studio-ide-145.3537739-windows.exe">android-studio-ide-145.3537739-windows.exe</a><br /> 无 Android SDK
+    </td>
+    <td data-size="437514160"></td>
+    <td>b52c0b25c85c252fe55056d40d5b1a40a1ccd03c</td>
+  </tr>
+  <tr>
+    <!-- blank TD from Windows rowspan -->
+    <td>
+  <a onclick="return onDownload(this,false,true)" id="win-bundle-zip" data-modal-toggle="studio_tos" href="https://dl.google.com/dl/android/studio/ide-zips/2.2.3.0/android-studio-ide-145.3537739-windows.zip">android-studio-ide-145.3537739-windows.zip</a><br /> 无 Android SDK，无安装程序
+    </td>
+    <td data-size="460290402"></td>
+    <td>8c9fe06aac4be3ead5e500f27ac53543edc055e1</td>
+  </tr>
+  <tr>
+    <td><nobr>Mac OS X</nobr></td>
+    <td>
+  <a onclick="return onDownload(this,false,true)" id="mac-bundle" data-modal-toggle="studio_tos" href="https://dl.google.com/dl/android/studio/install/2.2.3.0/android-studio-ide-145.3537739-mac.dmg">android-studio-ide-145.3537739-mac.dmg</a>
+    </td>
+    <td id="mac-bundle-size" data-size="455263302"></td>
+    <td>51f282234c3a78b4afc084d8ef43660129332c37</td>
+  </tr>
+  <tr>
+    <td>Linux</td>
+    <td>
+  <a onclick="return onDownload(this,false,true)" id="linux-bundle" data-modal-toggle="studio_tos" href="https://dl.google.com/dl/android/studio/ide-zips/2.2.3.0/android-studio-ide-145.3537739-linux.zip">android-studio-ide-145.3537739-linux.zip</a>
+    </td>
+    <td id="linux-bundle-size" data-size="459957542"></td>
+    <td>172c9b01669f2fe46edcc16e466917fac04c9a7f</td>
+  </tr>
+  </table>
+  
+  
+  
+  
+  
+  
+  <table class="download">
+    <tr>
+      <th>平台</th>
+      <th>SDK 工具包</th>
+      <th>大小</th>
+      <th>SHA-1 校验和</th>
+  </tr>
+  <tr>
+    <td>Windows</td>
+    <td>
+  <a onclick="return onDownload(this)" id="win-tools" data-modal-toggle="studio_tos"
+    href="https://dl.google.com/android/repository/tools_r25.2.3-windows.zip">tools_r25.2.3-windows.zip</a><br>
+    </td>
+    <td data-size="306745639"></td>
+    <td>b965decb234ed793eb9574bad8791c50ca574173</td>
+  </tr>
+  <tr>
+    <td><nobr>Mac</nobr></td>
+    <td>
+  <a onclick="return onDownload(this)" id="mac-tools" data-modal-toggle="studio_tos"
+    href="https://dl.google.com/android/repository/tools_r25.2.3-macosx.zip">tools_r25.2.3-macosx.zip</a>
+    </td>
+    <td data-size="200496727"></td>
+    <td>0e88c0bdb8f8ee85cce248580173e033a1bbc9cb</td>
+  </tr>
+  <tr>
+    <td>Linux</td>
+    <td>
+  <a onclick="return onDownload(this)" id="linux-tools" data-modal-toggle="studio_tos"
+    href="https://dl.google.com/android/repository/tools_r25.2.3-linux.zip">tools_r25.2.3-linux.zip</a>
+    </td>
+    <td data-size="277861433"></td>
+    <td>aafe7f28ac51549784efc2f3bdfc620be8a08213</td>
+  </tr>
+  </table>
