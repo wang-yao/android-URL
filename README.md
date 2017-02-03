@@ -176,6 +176,35 @@ command line tools below.</p>
 
 
 
+
+
+系统要求
+Windows
+Microsoft® Windows® 7/8/10（32 位或 64 位）
+最低：3GB RAM，推荐：8GB RAM
+最低：2GB 可用磁盘空间，
+推荐：4GB 可用磁盘空间（500MB 用于 IDE + 1.5GB 用于 Android SDK 和模拟器系统映像）
+最低屏幕分辨率：1280 x 800
+对于加速模拟器：64 位操作系统和支持 Intel® VT-x、Intel® EM64T (Intel® 64) 和禁止执行 (XD) 位功能的 Intel® 处理器
+Mac
+Mac® OS X® 10.10 (Yosemite) 或更高版本，直至 10.12 (macOS Sierra)
+最低：3GB RAM，推荐：8GB RAM
+最低：2GB 可用磁盘空间，
+推荐：4GB 可用磁盘空间（500MB 用于 IDE + 1.5GB 用于 Android SDK 和模拟器系统映像）
+最低屏幕分辨率：1280 x 800
+Linux
+GNOME 或 KDE 桌面
+已在 Ubuntu® 12.04 (Precise Pangolin)（能够运行 32 位应用的 64 位分发）上进行了测试。
+能够运行 32 位应用的 64 位分发
+GNU C Library (glibc) 2.11 或更高版本
+最低：3GB RAM，推荐：8GB RAM
+最低：2GB 可用磁盘空间，
+推荐：4GB 可用磁盘空间（500MB 用于 IDE + 1.5GB 用于 Android SDK 和模拟器系统映像）
+最低屏幕分辨率：1280 x 800
+对于加速模拟器：支持 Intel® VT-x、Intel® EM64T (Intel® 64) 和禁止执行(XD) 位功能的 Intel® 处理器，或支持 AMD Virtualization™ (AMD-V™) 的 AMD 处理器
+
+
+
 <table class="download">
     <tr>
       <th>平台</th>
