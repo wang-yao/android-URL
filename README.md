@@ -124,6 +124,63 @@ command line tools below.</p>
 
 
 
+<h2 id="stable-downloads">Latest Stable Version (r13b)</h2>
+
+  <<table class="download" id="download-table">
+    <tr>
+      <th>Platform</th>
+      <th>Package</th>
+      <th style="white-space:nowrap">Size (Bytes)</th>
+      <th>SHA1 Checksum</th>
+  </tr>
+  <tr>
+    <td>Windows 32-bit</td>
+    <td>
+  <a onClick="return onDownload(this)" data-modal-toggle="ndk_tos"
+     href="https://dl.google.com/android/repository/android-ndk-r13b-windows-x86.zip">android-ndk-r13b-windows-x86.zip</a>
+    </td>
+    <td>620461544</td>
+    <td>4eb1288b1d4134a9d6474eb247f0448808d52408</td>
+  </tr>
+  <tr>
+    <td>Windows 64-bit</td>
+    <td>
+  <a onClick="return onDownload(this)" data-modal-toggle="ndk_tos"
+     href="https://dl.google.com/android/repository/android-ndk-r13b-windows-x86_64.zip">android-ndk-r13b-windows-x86_64.zip</a>
+    </td>
+    <td>681320123</td>
+    <td>649d306559435c244cec5881b880318bb3dee53a</td>
+  </tr>
+  <tr>
+    <td>Mac OS X</td>
+    <td>
+  <a onClick="return onDownload(this)" data-modal-toggle="ndk_tos"
+     href="https://dl.google.com/android/repository/android-ndk-r13b-darwin-x86_64.zip">android-ndk-r13b-darwin-x86_64.zip</a>
+    </td>
+    <td>665967997</td>
+    <td>71fe653a7bf5db08c3af154735b6ccbc12f0add5</td>
+  </tr>
+  <tr>
+    <td>Linux 64-bit (x86)</td>
+    <td>
+  <a onClick="return onDownload(this)" data-modal-toggle="ndk_tos"
+     href="https://dl.google.com/android/repository/android-ndk-r13b-linux-x86_64.zip">android-ndk-r13b-linux-x86_64.zip</a>
+    </td>
+    <td>687311866</td>
+    <td>0600157c4ddf50ec15b8a037cfc474143f718fd0</td>
+  </tr>
+
+  </table>
+  
+  
+  
+  
+  
+  
+  
+  
+  <h2 id="beta-downloads">Latest Beta Version (r14 beta 2)</h2>
+  
   <table class="download" id="download-table">
     <tr>
       <th>Platform</th>
@@ -135,37 +192,37 @@ command line tools below.</p>
     <td>Windows 32-bit</td>
     <td>
   <a onClick="return onDownload(this)" data-modal-toggle="ndk_tos"
-     href="http://dl.google.com/android/repository/android-ndk-r12b-windows-x86.zip">android-ndk-r12b-windows-x86.zip</a>
+     href="https://dl.google.com/android/repository/android-ndk-r14-beta2-windows-x86.zip">android-ndk-r14-beta2-windows-x86.zip</a>
     </td>
-    <td>706453972</td>
-    <td>8e6eef0091dac2f3c7a1ecbb7070d4fa22212c04</td>
+    <td>708291527</td>
+    <td>7d897e9d75c1175fdec7133c97e277e98d37e1a0</td>
   </tr>
   <tr>
     <td>Windows 64-bit</td>
     <td>
   <a onClick="return onDownload(this)" data-modal-toggle="ndk_tos"
-     href="http://dl.google.com/android/repository/android-ndk-r12b-windows-x86_64.zip">android-ndk-r12b-windows-x86_64.zip</a>
+     href="https://dl.google.com/android/repository/android-ndk-r14-beta2-windows-x86_64.zip">android-ndk-r14-beta2-windows-x86_64.zip</a>
     </td>
-    <td>749567353</td>
-    <td>337746d8579a1c65e8a69bf9cbdc9849bcacf7f5</td>
+    <td>769907625</td>
+    <td>83058bc1583dd47cb619e0b09af5d328f992fe45</td>
   </tr>
   <tr>
     <td>Mac OS X</td>
     <td>
   <a onClick="return onDownload(this)" data-modal-toggle="ndk_tos"
-     href="http://dl.google.com/android/repository/android-ndk-r12b-darwin-x86_64.zip">android-ndk-r12b-darwin-x86_64.zip</a>
+     href="https://dl.google.com/android/repository/android-ndk-r14-beta2-darwin-x86_64.zip">android-ndk-r14-beta2-darwin-x86_64.zip</a>
     </td>
-    <td>734135279</td>
-    <td>e257fe12f8947be9f79c10c3fffe87fb9406118a</td>
+    <td>825461772</td>
+    <td>ed10c3d488a8065f46ef86d49102216f7dae4da1</td>
   </tr>
   <tr>
     <td>Linux 64-bit (x86)</td>
     <td>
   <a onClick="return onDownload(this)" data-modal-toggle="ndk_tos"
-     href="http://dl.google.com/android/repository/android-ndk-r12b-linux-x86_64.zip">android-ndk-r12b-linux-x86_64.zip</a>
+     href="https://dl.google.com/android/repository/android-ndk-r14-beta2-linux-x86_64.zip">android-ndk-r14-beta2-linux-x86_64.zip</a>
     </td>
-    <td>755551010</td>
-    <td>170a119bfa0f0ce5dc932405eaa3a7cc61b27694</td>
+    <td>841384161</td>
+    <td>d4a4ab48b2b161e2caf6149c85f8bf6d45b72dea</td>
   </tr>
 
   </table>
