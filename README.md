@@ -1,3 +1,48 @@
+<h2>Links for installing older plugin versions</h2>
+<table>
+  <tr>
+    <th>Eclipse version</th>
+    <th>Plugin link</th>
+    <th>Archive link</th>
+  </tr>
+  <tr>
+    <td>Eclipse 4.3 (Kepler)</td>
+    <td><code>https://dl.google.com/eclipse/plugin/archive/3.8.0/4.3</code></td>
+    <td><a href="https://dl.google.com/eclipse/plugin/archive/3.8.0/4.3/com.google.gdt.eclipse.suite.4.3.update.site_3.8.0.zip">Site archive for Eclipse 4.3</a></td>
+  </tr>
+  <tr>
+    <td>Eclipse 3.8/4.2 (Juno)</td>
+    <td><code>https://dl.google.com/eclipse/plugin/archive/3.8.0/4.2</code></td>
+    <td><a href="https://dl.google.com/eclipse/plugin/archive/3.8.0/4.2/com.google.gdt.eclipse.suite.4.2.update.site_3.8.0.zip">Site archive for Eclipse 3.8/4.2</a></td>
+  </tr>
+  <tr>
+    <td>Eclipse 3.7</td>
+    <td><code>https://dl.google.com/eclipse/plugin/archive/3.6.0/3.7</code></td>
+    <td><a href="https://dl.google.com/eclipse/plugin/archive/3.6.0/3.7/com.google.gdt.eclipse.suite.3.7.update.site_3.6.0.zip">Site archive for Eclipse 3.7</a></td>
+  </tr>
+  <tr>
+    <td>Eclipse 3.6</td>
+    <td><code>https://dl.google.com/eclipse/plugin/archive/3.2.4/3.6</code></code></td>
+    <td><a href="https://dl.google.com/eclipse/plugin/archive/3.2.4/3.6/com.google.gdt.eclipse.suite.3.6.update.site_3.2.4.zip">Site archive for Eclipse 3.6</a></td>
+  </tr>
+  <tr>
+    <td>Eclipse 3.5</td>
+    <td><code>https://dl.google.com/eclipse/plugin/archive/3.1.2/3.5</code></td>
+    <td><a href="https://dl.google.com/eclipse/plugin/archive/3.1.2/3.5/com.google.gdt.eclipse.suite.3.5.update.site_3.1.2.zip">Site archive for Eclipse 3.5</a></td>
+  </tr>
+  <tr>
+    <td>Eclipse 3.4</td>
+    <td><code>https://dl.google.com/eclipse/plugin/archive/2.3.3/3.4</code></td>
+    <td><a href="https://dl.google.com/eclipse/plugin/archive/2.3.3/3.4/com.google.gdt.eclipse.suite.3.4.update.site_2.3.3.zip">Site archive for Eclipse 3.4</a></td>
+  </tr>
+</table>
+
+
+
+
+
+
+
 android环境，开发工具下载地址 <br />
   <table class="download">
     <tr>
