@@ -1,3 +1,5 @@
+![developer](https://developer.android.google.cn/index.html?hl=zh-cn)
+
 <h2>Links for installing older plugin versions</h2>
 <table>
   <tr>
