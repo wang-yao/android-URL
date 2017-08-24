@@ -1,5 +1,6 @@
 [developer of android(android开发环境)](https://developer.android.google.cn/index.html?hl=zh-cn)<br>
 [Tango](https://developers.google.cn/tango/) <br>
+[开源项目集合](https://snowdream.github.io/awesome-android/Other.html#Intent)
 
 Android ADT
 [23.0.7](https://dl.google.com/android/ADT-23.0.7.zip)
