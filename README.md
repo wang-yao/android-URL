@@ -2,6 +2,7 @@
 [Tango](https://developers.google.cn/tango/) <br>
 [开源项目集合](https://snowdream.github.io/awesome-android/Other.html#Intent) <br>
 [开源项目集合](https://github.com/trending/java) <br>
+[ffmpeg4android](http://blog.csdn.net/woshizisezise/article/details/51878566) <br>
 
 Android ADT
 [23.0.7](https://dl.google.com/android/ADT-23.0.7.zip)
