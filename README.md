@@ -3,6 +3,7 @@
 [开源项目集合](https://snowdream.github.io/awesome-android/Other.html#Intent) <br>
 [开源项目集合](https://github.com/trending/java) <br>
 [ffmpeg4android](https://androidwarzone.blogspot.jp/2011/12/ffmpeg4android.html) <br>
+[3.22版本下载地址](https://drive.google.com/file/d/0B2aT0QoEmtuaN0VJZ2Z4ODY3T2s/view)
 
 Android ADT
 [23.0.7](https://dl.google.com/android/ADT-23.0.7.zip)
