@@ -1,4 +1,5 @@
 [developer of android(android开发环境)](https://developer.android.google.cn/index.html?hl=zh-cn)<br>
+[SSL证书HOWTO](http://www.tldp.org/HOWTO/SSL-Certificates-HOWTO/index.html)
 [Tango](https://developers.google.cn/tango/) <br>
 [开源项目集合](https://snowdream.github.io/awesome-android/Other.html#Intent) <br>
 [开源项目集合](https://github.com/trending/java) <br>
